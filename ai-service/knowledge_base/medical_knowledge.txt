@@ -1,0 +1,40 @@
+Congenital Heart Disease Knowledge Base
+
+Congenital heart disease refers to structural abnormalities
+of the heart that are present at birth.
+
+Atrial Septal Defect (ASD):
+Atrial septal defect is a condition characterized by an
+opening in the wall between the two upper chambers
+of the heart.
+
+Ventricular Septal Defect (VSD):
+Ventricular septal defect is an opening in the wall
+between the two lower chambers of the heart.
+
+Patent Ductus Arteriosus (PDA):
+Patent ductus arteriosus occurs when a fetal blood vessel
+between the aorta and pulmonary artery remains open
+after birth.
+
+Tetralogy of Fallot (TOF):
+Tetralogy of Fallot is a congenital heart condition
+involving four structural abnormalities of the heart.
+
+Clinical evaluation of congenital heart disease may
+involve echocardiography, electrocardiography,
+physical examination, and patient history.
+
+Echocardiography provides information about the
+structure and function of the heart.
+
+Electrocardiography records electrical activity
+of the heart and may provide information about
+heart rhythm and electrical conduction.
+
+Medical imaging and physiological signals should
+be interpreted by qualified healthcare professionals.
+
+Artificial intelligence systems in healthcare require
+appropriate training, validation, and clinical evaluation
+before clinical use.
